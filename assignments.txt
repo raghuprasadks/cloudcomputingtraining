@@ -1,0 +1,39 @@
+1. Joshua - Cultural Events - 2nd year
+-Emmanuel
+-Sinchana
+-Joshua
+2. Anurag - Gaming
+   -anurag
+   -karthik
+   -sreeraj
+   -jamsheer
+3. Nibiya - Department Website
+         -rani
+         -judin
+         -archith
+         -sreerag
+	 -Nibiya
+4. Rehan - SBCL (SB Cricket League)
+         -rehan
+         -shravan
+         -zubair
+         -mithun
+5. raj-  Online shopping
+          -rafshid
+	 -shahzad
+	  -rohan
+6. Nandhakumar - SBTravels
+               -afnas
+               -abhishek
+               -sacheth
+               -faisal 
+
+http://www.kaushalya.tech/
+
+git clone https://github.com/raghuprasadks/SBCloud-Samplewebsite.git
+
+git status
+
+git add .
+git commit -m "added file"
+git push - u origin master
